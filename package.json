@@ -1,0 +1,24 @@
+{
+  "name": "kiran-kangne-portfolio",
+  "version": "1.0.0",
+  "description": "Modern and responsive AI/ML Engineer portfolio for Kiran Kangne",
+  "scripts": {
+    "start": "vite --open",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^6.0.0"
+  },
+  "keywords": [
+    "portfolio",
+    "ai-engineer",
+    "machine-learning",
+    "data-science",
+    "frontend"
+  ],
+  "author": "Kiran Kangne",
+  "license": "MIT"
+}
+
